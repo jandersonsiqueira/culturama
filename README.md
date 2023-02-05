@@ -8,7 +8,7 @@
 
 ## Visão Geral
 
-Nesse projeto trabalhamos com diversas propriedas do Flexbox e Grid, tais como: flwx-wrap, grow, align-self, grid-area e outros mais. A idéia inicial é ajustar o layout da nossa página de acordo com o figma disponibilizado [(Aqui)](https://www.figma.com/file/mC6DmuXPGWHYkMWOQD3khm/2713---Praticando-CSS%3A-Grid-e-Flexbox), sempre mantendo a responsividade com os diferentes dispositivos (celular, tablet e desktop). 
+Nesse projeto trabalhamos com diversas propriedades do Flexbox e Grid, tais como: flwx-wrap, grow, align-self, grid-area e outros mais. A idéia inicial é ajustar o layout da nossa página de acordo com o figma disponibilizado [(Aqui)](https://www.figma.com/file/mC6DmuXPGWHYkMWOQD3khm/2713---Praticando-CSS%3A-Grid-e-Flexbox), sempre mantendo a responsividade com os diferentes dispositivos (celular, tablet e desktop). 
 
 ## Instrutores
 
